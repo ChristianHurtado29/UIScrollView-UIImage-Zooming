@@ -22,8 +22,7 @@ class ViewController: UIViewController {
         
         // provide a maximumZoomScale of greater than 1
         // 1 is the default value, if not set won't zoom
-       
-       
+    
        // step 2: set the maximumZoomScale greater than the default of 1
         // provide a maximumZoomDcale of greater than 1
         // 1 is the default value, if not set won't zoom
